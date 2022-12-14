@@ -1,0 +1,51 @@
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.exe
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.deps.json
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.dll
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\ref\Tetris.dll
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.csprojAssemblyReference.cache
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\App.g.cs
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.g.resources
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+D:\Users\USER\Documents\PlayBox_7997-master\NICOLAS_ESTEBAN_ORTIZ_ADAME\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.AssemblyReference.cache
+D:\Users\USER\Documents\PlayBox_7997-master\NICOLAS_ESTEBAN_ORTIZ_ADAME\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Users\USER\Documents\PlayBox_7997-master\NICOLAS_ESTEBAN_ORTIZ_ADAME\Tetris\obj\Debug\net5.0-windows\App.g.cs
+D:\Users\USER\Documents\PlayBox_7997-master\NICOLAS_ESTEBAN_ORTIZ_ADAME\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+D:\Users\USER\Documents\PlayBox_7997-master\NICOLAS_ESTEBAN_ORTIZ_ADAME\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+D:\Users\USER\Documents\PlayBox_7997-master\NICOLAS_ESTEBAN_ORTIZ_ADAME\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+D:\Users\USER\Documents\PlayBox_7997-master\NICOLAS_ESTEBAN_ORTIZ_ADAME\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\bin\Debug\net5.0-windows\Tetris.exe
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\bin\Debug\net5.0-windows\Tetris.deps.json
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\bin\Debug\net5.0-windows\Tetris.dll
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.AssemblyReference.cache
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\App.g.cs
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\Tetris.g.resources
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\refint\Tetris.dll
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+D:\Users\USER\Documents\PlayBox_7997-master\DYLAN ALEXANDER ALVARADO PALACIOS\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
